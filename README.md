@@ -1,2 +1,1 @@
-# PrepC
-Repositorio de prueba PrepCourse Henry
+Prueba para crear repositorio y clonarlo desde github a mi computadora
